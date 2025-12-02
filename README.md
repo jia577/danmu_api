@@ -6,7 +6,7 @@
 LogVar 弹幕 API 服务器
 </h2>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/huangxd-/danmu_api)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/jia577212/danmu_api)
 ![GitHub forks](https://img.shields.io/github/forks/huangxd-/danmu_api)
 ![GitHub Repo stars](https://img.shields.io/github/stars/huangxd-/danmu_api)
 ![GitHub License](https://img.shields.io/github/license/huangxd-/danmu_api)
